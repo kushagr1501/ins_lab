@@ -32,8 +32,6 @@ Designed for **high-performance cryptography** while ensuring **128-bit encrypti
 ---
 
 
----
-
 ## 📌 Installation & Usage  
 
 ### 🔹 Run on Replit  
