@@ -34,8 +34,11 @@ Designed for **high-performance cryptography** while ensuring **128-bit encrypti
 
 ## 📌 Installation & Usage  
 
-### 🔹 Run on Replit  
-Click below to **remix & run** the project on **Replit**:  
+### 🔹 Run on Replit   
+1. Click the **Run on Replit** button above.  
+2. **Remix the app** if you want to modify the code.  
+3. Hit **Run** to execute the C++ program.  
+4. Modify, experiment, and learn! 🎯  
 
 [![Run on Replit](https://replit.com/badge/github/kushagrsharma15/kkk)](https://replit.com/@kushagrsharma15/kkk#main.cpp)  
 
