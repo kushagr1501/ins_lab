@@ -36,7 +36,7 @@ Designed for **high-performance cryptography** while ensuring **128-bit encrypti
 
 ### 🔹 Run on Replit   
 1. Click the **Run on Replit** button above.  
-2. **Remix the app** if you want to modify the code.  
+2. **Remix the app**.  
 3. Hit **Run** to execute the C++ program.  
 4. Modify, experiment, and learn! 🎯  
 
