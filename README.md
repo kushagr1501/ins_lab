@@ -35,11 +35,6 @@ This repository contains implementations of various classical encryption techniq
    ```
 
 
-## Notes
-- Ensure that prime numbers are chosen where applicable.
-- Some ciphers may have specific input constraints.
-- The hybrid cipher implementation combines multiple encryption techniques for enhanced security.
-
 ## Contribution
 Feel free to contribute by adding new encryption techniques or improving existing implementations.
 
